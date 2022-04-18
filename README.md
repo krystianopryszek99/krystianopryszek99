@@ -13,7 +13,7 @@ This is my personal GitHub profile which contains various repositories including
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystianopryszek99&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystianopryszek99&layout=compact&show_icons=true&hide=css,shaderlab,hlsl,html&theme=dark)](https://github.com/krystianopryszek99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystianopryszek99&layout=compact&show_icons=true&hide=css,shaderlab,hlsl,html,typescript&theme=dark)](https://github.com/krystianopryszek99/github-readme-stats)
 
 
 
