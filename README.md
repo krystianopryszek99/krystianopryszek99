@@ -2,8 +2,8 @@
 
 This is my personal GitHub profile which contains various repositories including personal projects, college assignments, assessments, labs, group projects, and much more.  
 
-- 🔭 I’m currently working on my Final Year Project
-- 🌱 I’m currently learning Python 
+- ✨ I have finished my Bachelor Of Science In Computing In Software Development at Atlantic Technnological University.
+- ✨ I’m currently an Software Engineer Intern at SmartBear.
 
 ## 🛠 Languages & Tools:
 
