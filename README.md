@@ -3,7 +3,7 @@
 This is my personal GitHub profile which contains various repositories including personal projects, college assignments, assessments, labs, group projects, and much more.  
 
 - ✨ I have finished my Bachelor Of Science In Computing In Software Development at Atlantic Technnological University.
-- ✨ I’m currently an Software Engineer Intern at SmartBear.
+- ✨ I’m currently an Associate Software Engineer at SmartBear.
 
 ## 🛠 Languages & Tools:
 
